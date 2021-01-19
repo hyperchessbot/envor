@@ -8,7 +8,7 @@ path = "src/advanced.rs"
 
 [package]
 name = "envor"
-version = "0.1.0"
+version = "0.1.1"
 authors = [ "hyperchessbot <hyperchessbot@gmail.com>",]
 edition = "2018"
 keywords = [ "env", "var", "typed", "default",]
@@ -16,7 +16,7 @@ description = "Get env vars to types with default."
 license = "MIT"
 repository = "https://github.com/hyperchessbot/envor"
 homepage = "https://github.com/hyperchessbot/envor#envor"
-documentation = "https://docs.rs/envor/0.1.0"
+documentation = "https://docs.rs/envor/0.1.1"
 readme = "ReadMe.md"
 default-run = "usage"
 
