@@ -5,5 +5,8 @@ fn main(){
 
 	let flag:bool = env_or("SETTING", false);
 
-	println!("config value = {} , setting = {}", config_value, flag);
+	let config_string = env_string_or("CONFIG_STRING", "default string");
+
+	println!("config value = {} , setting = {} , config_string = {}",
+		config_value, flag, config_string);
 }
