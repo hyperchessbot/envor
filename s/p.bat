@@ -1,5 +1,6 @@
-python s/gen.py
+cargo fmt
 
+python s/gen.py
 
 git config --global user.email "hyperchessbot@gmail.com"
 git config --global user.name "hyperchessbot"

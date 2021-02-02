@@ -29,12 +29,12 @@ config = {
     {
       "name": "usage",
       "title": "Usage",
-      "path": "src/usage.rs"
+      "path": "examples/usage.rs"
     },
     {
       "name": "advanced",
       "title": "Advanced",
-      "path": "src/advanced.rs"
+      "path": "examples/advanced.rs"
     }
   ],
   "lib": {
